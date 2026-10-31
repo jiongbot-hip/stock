@@ -144,3 +144,5 @@ stock/
 MIT License
 
 > 模型通道：讯飞 Spark X2.6（OpenAI 兼容）
+
+> 本仓库文档由人工维护，欢迎提 issue 讨论。
