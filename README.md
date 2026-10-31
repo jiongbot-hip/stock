@@ -142,3 +142,5 @@ stock/
 ## 许可证
 
 MIT License
+
+> 模型通道：讯飞 Spark X2.6（OpenAI 兼容）
