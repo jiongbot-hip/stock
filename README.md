@@ -9,6 +9,7 @@
 - **集成学习**: RandomForest + GradientBoosting + LogisticRegression
 - **实时预测**: FastAPI 后端 + React 前端
 - **自动训练**: 定时任务优化模型参数
+- **自动化协作**: PR 由 dsh-superagent 自动提交
 
 ## 快速开始
 
